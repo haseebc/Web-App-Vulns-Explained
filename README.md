@@ -1,9 +1,5 @@
 # Web-App-Vulns-Explained
 
-
-### **📄 XSS Explanation in Markdown File**
-#### **`xss_explained.md`**
-````markdown
 # 🔥 Cross-Site Scripting (XSS) – A Deep Dive
 
 ## 🎯 What is XSS?
@@ -228,6 +224,3 @@ Content-Security-Policy: default-src 'self'; script-src 'self' https://trusted.c
 ---
 
 🔎 **Want to test XSS in a lab?** I can help you set up a test environment! 🚀
-````
-
----
