@@ -1,12 +1,5 @@
 # Web-App-Vulns-Explained
 
-Sure! Here's your **XSS deep dive** in a Markdown file.  
-
-### 📌 **How to Download the File:**
-1. Click the **Download** button (if your platform provides one).
-2. If downloading isn't available, **copy the text below** into a file named **`xss_explained.md`** on your system.
-
----
 
 ### **📄 XSS Explanation in Markdown File**
 #### **`xss_explained.md`**
